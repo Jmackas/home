@@ -46,7 +46,17 @@ a:hover, a:focus, a:active {
 
 /* Top section */
 .header {
-    margin-top: 15%;
+    margin-top: 5%;
+}
+
+/* Primary menu */
+.nav_menu {
+    margin-bottom: 15%;
+}
+
+/* Primary menu items */
+.nav_menu a {
+    margin-right: 5px;
 }
 
 /* Footer section */
